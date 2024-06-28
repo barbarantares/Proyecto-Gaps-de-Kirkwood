@@ -1,6 +1,6 @@
 # Análisis Dinámico de los Gaps de Kirkwood en el Cinturón de Asteroides utilizando la Simulación Numérica REBOUND
-El presente proyecto fue elaborado para curso Medio Circunestelar y Sistemas Planetarios (AST 210) de la Universidad Técnico Federico Santa María, el cual pertenece a la malla de la carrera Licenciatura en Astrofísica.
-Este curso, es dictado por el profesor Matias Montesinos Armijo.
+El presente proyecto fue elaborado para el curso Medio Circunestelar y Sistemas Planetarios (AST 210) de la Universidad Técnico Federico Santa María (Santiago, Chile), el cual pertenece a la malla de la carrera Licenciatura en Astrofísica.
+Este curso, es dictado por el profesor Matias Montesinos Armijo, el presente semestre (2024-I).
 
 ## Tabla de Contenidos
 1. [Descripción](#descripción)
